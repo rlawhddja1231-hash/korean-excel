@@ -1,0 +1,15 @@
+{
+  "name": "korean-excel",
+  "version": "0.1.0",
+  "description": "한국 사무 엑셀(.xlsx/.csv)을 한국 방식으로 정리·검사하는 Claude 플러그인 — 주민번호·사업자번호 검사, 날짜·전화·금액 정리, 개인정보 가리기, 주소 나누기, 만 나이, 공휴일 뺀 영업일, 한글 금액, 합치기·나누기·중복, CP949 CSV",
+  "author": {
+    "name": "rlawhddja1231-hash",
+    "url": "https://github.com/rlawhddja1231-hash"
+  },
+  "license": "MIT",
+  "keywords": ["excel", "xlsx", "csv", "korean", "엑셀", "주민등록번호", "사업자등록번호", "masking", "address", "holidays", "cp949"],
+  "displayName": "한국식 엑셀",
+  "homepage": "https://github.com/rlawhddja1231-hash/korean-excel",
+  "repository": "https://github.com/rlawhddja1231-hash/korean-excel",
+  "icon": "./.claude-plugin/icon.png"
+}

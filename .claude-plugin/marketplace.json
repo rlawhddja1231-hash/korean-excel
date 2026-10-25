@@ -1,0 +1,15 @@
+{
+  "name": "korean-excel",
+  "description": "한국 사무 엑셀을 다루는 Claude 플러그인 모음",
+  "owner": {
+    "name": "rlawhddja1231-hash"
+  },
+  "plugins": [
+    {
+      "name": "korean-excel",
+      "source": "./",
+      "description": "한국 엑셀 명단을 검사·정리하고, 개인정보를 가리고, 주소·나이·영업일·한글 금액을 계산하는 플러그인",
+      "version": "0.1.0"
+    }
+  ]
+}
